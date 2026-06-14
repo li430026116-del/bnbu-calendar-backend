@@ -1,0 +1,304 @@
+code,name,faculty,credit
+AIM4053,Advanced Interactive Media Workshop,SCC,3
+ENV3163,Atmospheric Science and Pollution,FST,3
+BUS3023,Business Research Methods,FBM,3
+FIN4043,Business Valuation,FBM,3
+THEM3043,Digital Marketing in Tourism and Hospitality,SCC,3
+DMM3023,Digital Storytelling,FBM,3
+PSY3053,Educational Psychology,FST,3
+UCLC1033,English for Academic Purposes III,SGE,3
+CCGC1013,Introduction to Communication Theories,FHSS,3
+BA3083,Multiple Criteria Decision Making,FBM,3
+CTV2003,Aesthetics of Film,SCC,3
+TRA2023,Contrastive Language Studies: English and Chinese,FHSS,3
+BIOL1023,Diversity of Life and Laboratory,FST,3
+ENG3283,English Through Critical Thinking,SGE,3
+CCM2113,Event Planning and Management,SCC,3
+THEM3003,Intercultural Management in Tourism and Hospitality,SCC,3
+ECON3063,Intermediate Microeconomics,FBM,3
+FINM3013,Introduction to Financial Derivatives,FST,3
+ENG30838002,Language and Ethnography,FHSS,3
+GTSC2103,Lifestyle and Health,FST,3
+EPIN3053,Logistics and Transportation Management,FBM,3
+MUS2133,Music Harmony and Analysis II,SCC,3
+MUS1193,Music Theory and Ear Training II,SCC,3
+CCM3163,Principles of Creative Arts Management,SCC,3
+ECON2013,Principles of Microeconomics,FBM,3
+GTSC2053,Telling A Story With Data,FHSS,3
+TRA2093,Translation across Media,FHSS,3
+BUS1013,"Business, Entrepreneurship, and Innovation",FBM,3
+MCOM2013,Communication Theories I,FHSS,3
+EBIS3023,Electronic Commerce,FBM,3
+GFHC1133,Great Discoveries in World Archaeology,FHSS,3
+ENV1043,Introduction to Environmental Science,FST,3
+TRA10038002,Introduction to Translation,FHSS,3
+JAP1013,Japanese I,SGE,3
+AI2033,Probability and Statistics,FST,3
+STAT3003,Survey Sampling,FST,3
+CCGC3003,Traditional Chinese Civilization in the Global Context,FHSS,3
+PSY3193,Advanced Data Analytics for Psychology,FST,3
+ENG2173,American Literature: Traditions of Democracy and Dissent,FHSS,3
+ACCT4003,Auditing I,FBM,3
+DS4083,Big Data Analytics,FST,3
+CCGC1023,China in Western Cultures,FHSS,3
+CCGC4003,Chinese Literature and Society,FHSS,3
+TRA3113,Commercial Translation,FHSS,3
+COMP4033,Computer Graphics,FST,3
+POLS2073,Cooperation and Progress in the Guangdong-Hong Kong-Macau Greater Bay Area,FHSS,3
+GFQR1023,Data Analytics for Business,FST,3
+DSS2003,Employment and Tax Policy for Digital Economy,FHSS,3
+DSS3083,Quantum Social Science,FHSS,3
+FOOD4123,Food Packaging,FST,3
+COMP1023,Foundations of C Programming,FST,3
+MUS3063,History and Repertoire of Romantic Music,SCC,3
+CTV2073,Introduction to Communication Theory,SCC,3
+BUS4093,Management Information Systems,FBM,3
+ECON2023,Mathematical Economics,FBM,3
+BIOL2093,Microbiology,FST,3
+MATH3033,Partial Differential Equations,FST,3
+FIN3063,Principles of Corporate Finance,FST,3
+GLD3093,Rural Economic Development and Transformation in Globalising China,FHSS,3
+BA3113,Supply Chain Management and Logistics,FBM,3
+PSY3023,Abnormal Psychology,FST,3
+TESL3003,Bilingualism and Bilingual Education,FHSS,3
+MATH1083,Calculus II,FST,3
+STAT4043,Categorical Data Analysis,FST,3
+CTV2033,Communication Research Methods,SCC,3
+MATH4033,Computational Finance,FST,3
+PRA3083,Crisis Management and Risk Communication,FHSS,3
+BA2013,Data Mining with Big Data,FBM,3
+COMP3023,Design and Analysis of Algorithms,FST,3
+DMM2013,Digital Media Technologies,FBM,3
+CCM3133,Exhibition Design: Creative Interpretation and Management,SCC,3
+MKT3013,Global Marketing,FBM,3
+MHR4003,Human Resource Strategy and Planning,FBM,3
+CTV1013,Introduction to Media Aesthetics,SCC,3
+EPIN3023,Marketing for Entrepreneurs,FBM,3
+AI3133,Natural Language Processing,FST,3
+ENV3183,Practical Environmental Analysis and Monitoring,FST,3
+BUS2013,Principles of Law,FBM,3
+BUS2053,Principles of Law,FBM,3
+MATH3163,Real Analysis,FST,3
+TRA3153,Translating China in the Digital Age,FHSS,3
+MATH3183,Vector Calculus and Complex Analysis,FST,3
+GFHC1163,American Civilizations,FHSS,3
+CCGC2033,Chinese Philology,FHSS,3
+ACCT3013,Cost and Management Accounting II,FBM,3
+ACCT2043,Principles of Accounting I,FBM,3
+CCM4053,Cultural Heritage and Tourism,SCC,3
+GERM2003,German III,SGE,3
+PSY2043,Introduction to Psychology,FST,3
+COMP3033,Operating Systems,FST,3
+ACCT2003,Principles of Accounting I,FBM,3
+PRA2013,Principles of Advertising,FHSS,3
+PSY4063,Psychology of the Chinese People,FST,3
+MUS3023,Tonal Counterpoint,SCC,3
+FINM4073,Advanced Financial Mathematics,FST,3
+DS1023,Advanced Mathematics for Data Science,FST,3
+FOOD1023,Application of Chemistry in Society,FST,3
+BUS1023,Business and Society,FBM,3
+ACCT3083,Chinese Taxation Law,FBM,3
+CCM3173,Concepts of Contemporary Arts in Cultural Industries,SCC,3
+EPIN4003,Corporate Entrepreneurship,FBM,3
+CCM3023,"Cultural Policy, Economy and Development",SCC,3
+BA3023,Data Analysis and Fintech Fundamentals,FBM,3
+COMP3003,Data Communications and Networking,FST,3
+MUS2113,Essentials of Song-writing,SCC,3
+ENG10138002,Foundations of Language Studies,FHSS,3
+ACCT2063,Fundamental Accounting Principles,FBM,3
+MHR4013,Human Resource Management in China,FBM,3
+ECON4013,Industrial Organisation,FBM,3
+POLS3093,International Organisations,FHSS,3
+ECON4083,International Trade,FBM,3
+CCGC2023,Introduction to Chinese Literature,FHSS,3
+FINM2073,Introduction to Python for Mathematical Computing,FST,3
+JAP2013,Japanese Culture,SGE,3
+MKT2003,Principles of Marketing Management,FBM,3
+PSY3183,Psychological Assessment and Testing,FST,3
+TRA30438001,Translation in Workplace,FHSS,3
+DMM3003,"AI, Data Science and Management",FBM,3
+EBIS3113,Business Forecasting and Machine Learning,FBM,3
+COMM2003,Communication Theory,FHSS,3
+FIN3093,Corporate Finance,FBM,3
+FIN3013,Corporate Finance,FBM,3
+STAT4003,Experimental Design,FST,3
+MATH4143,Functional Analysis,FST,3
+MATH1113,Fundamental Mathematics,FST,3
+POLS3253,Global Routes of Trade and Investment,FHSS,3
+ENG2123,Introduction to Corpus Linguistics,FHSS,3
+DSS1023,Invitation to Digital Social Science,FHSS,3
+ENG3073,Language and Society,FHSS,3
+MATH1063,Linear Algebra II,FST,3
+GFHC1063,Modern Western Thought and Culture,FHSS,3
+BIOL3043,Molecular Biology,FST,3
+CCM3143,Public Arts and Museum Design Management in the Urban Environment,SCC,3
+TRA4063,Simultaneous Interpreting,FHSS,3
+COMP3063,Software Engineering,FST,3
+MAD4063,Visual Arts Since 1900,SCC,3
+ACCT3093,Chinese Economic Law,FBM,3
+STAT3043,Data Analysis Using R,FST,3
+PSY2033,Developmental Psychology,FST,3
+COMP4073,Distributed Computing Systems,FST,3
+MHR3003,Human Resource Management,FBM,3
+ACCT3033,Intermediate Accounting I,FBM,3
+DS4073,Introduction to Data Visualisation,FST,3
+EBIS3033,Programming for Business Applications,FBM,3
+BA3103,Statistical Reasoning for Business Decisions,FBM,3
+FINM3133,Time Series for Finance and Macroeconomics,FST,3
+COMP4263,3D Computer Vision,FST,3
+BUS3003,Business Communications,FBM,3
+PSY3043,Consumer Psychology,FST,3
+COMP3283,Data Structure,FST,3
+BA1003,Database Management and Applications,FBM,3
+DMM2003,Digital Design Thinking,FBM,3
+MATH3013,Discrete Mathematics,FST,3
+FOOD3023,Food Toxicology,FST,3
+MUS3043,Form and Style II,SCC,3
+DS2003,Fundamentals of Database Systems,FST,3
+MHR3013,Human Resource Development,FBM,3
+THEM3033,Human Resources Management in Tourism and Hospitality,SCC,3
+CTV4203,Media Programming and Planning,SCC,3
+ENG3123,Posthuman Futures: Science Fiction Since 1960,FHSS,3
+GLD2043,Principles of Development Economics,FHSS,3
+GLD3073,Principles of Negotiation,FHSS,3
+STAT2013,Regression Analysis,FST,3
+ENV3003,Resources and the Environment,FST,3
+BA3093,Simulation and Risk Analysis,FBM,3
+GFQR1033,Statistics in Our Daily Life,FST,3
+FINM4063,Stochastic Calculus for Finance,FST,3
+GFHC1023,Traditional East Asia,FHSS,3
+ENG21638001,British Literature: the Empire and the Crisis of Identity,FHSS,3
+ENG10038001,Introduction to the Study of Literature,FHSS,3
+MATH1123,Calculus for Science and Engineering,FST,3
+GFHC1113,China and Early Civilizations,FHSS,3
+CCM2093,"Culture, Creativity and Management",SCC,3
+PSY4093,Ecological Psychology,FST,3
+FIN4053,Financial Markets in China,FBM,3
+GFHC1093,"Gender, Family and Marriage",FHSS,3
+BIOL2013,General Biology and Chemistry Laboratory,FST,3
+GERM1023,German I,SGE,3
+GFHC1103,History of Contemporary Economic Thought in an Interdisciplinary Perspective,FBM,3
+GLD20138002,International Cooperation and World Order,FHSS,3
+GFVM1063,Media Ethics,FBM,3
+MUS4053,Music in the Medieval and Renaissance Periods,SCC,3
+MUS1093,Music Theory,SCC,3
+COMP2013,Object-Oriented Programming,FST,3
+AI1013,Object-Oriented Programming,FST,3
+OR4023,Optimization,FST,3
+ECON4043,Public Finance,FBM,3
+TRA3103,Translation of Legal and Government Document,FHSS,3
+AI4023,Deep Reinforcement Learning,FST,3
+GFHC10738002,Exploring Western Philosophy,FHSS,3
+BIOL2003,General Biology,FST,3
+BUS2003,Organisational Behaviour,FBM,3
+AI2073,Perception,FST,3
+STAT4063,Time Series Analysis,FST,3
+COMP4253,AI-Generated Content,FST,3
+MATH4063,Case Studies in Mathematical Modelling,FST,3
+PSY4123,Counselling Psychology,FST,3
+BIOL3053,Environmental Biotechnology and Laboratory,FST,3
+FIN2003,Financial Management,FBM,3
+FIN2023,Financial Management,FBM,3
+FOOD3053,Food Materials Science,FST,3
+BIOL2033,Food Microbiology,FST,3
+ENG33138002,Foundations of Literary Criticism,FHSS,3
+POLS1003,Foundations of Political Science,FHSS,3
+THEM2043,Fundamentals of Tourism and Hospitality Studies,SCC,3
+MAD2033,History of Media Arts and Design,SCC,3
+CTV1003,Introduction to Electronic Media,SCC,3
+FIN3033,Introduction to Futures and Options Markets,FBM,3
+MATH2013,Introduction to Mathematical Finance,FST,3
+FIN3043,Investment Management,FBM,3
+AI3013,Machine Learning,FST,3
+DS4023,Machine Learning,FST,3
+MKT4003,Marketing Strategy,FBM,3
+MUS3303,Musical Theatre,SCC,3
+BA2033,Optimization Methods,FBM,3
+MHR3073,Applied Social Psychology in Organisations,FBM,3
+MAD2023,Appreciation of the Arts,SCC,3
+PRA3073,Branding in Advertising,FHSS,3
+PRA3003,Consumer Behaviour,FHSS,3
+MCOM3123,International Communication,FHSS,3
+AI1023,Database Management Systems,FST,3
+COMP3013,Database Management Systems,FST,3
+THEM2033,Food and Beverage Management,SCC,3
+GERM1003,German II,SGE,3
+POLS3263,Global Environmental Governance,FHSS,3
+SCIT1033,Introduction to Aviation,FST,3
+ENV3073,Introduction to Geographic Information Systems for Environmental Management,FST,3
+ECON3113,Linear Algebra for Economics and Finance,FBM,3
+MATH4083,Numerical Analysis,FST,3
+ACCT2053,Principles of Accounting II,FBM,3
+PSY2003,Biological Psychology,FST,3
+MATH1003,Linear Algebra,FST,3
+MATH1173,Linear Algebra,FST,3
+OR3013,Linear Programming and Integer Programming,FST,3
+ECON2113,Macroeconomics,FST,3
+MKT4023,Marketing Management in China,FBM,3
+COMP4153,Quantum Finance and Intelligent Financial Trading Systems,FST,3
+EBIS2023,Business Analytics,FBM,3
+GFVM1003,Business Ethics and Corporate Social Responsibility,FBM,3
+MATH1103,Calculus,FST,3
+CCGC1003,China's Roles in the Global Systems,FHSS,3
+CCM3083,"Culture, Creativity and Management in Chinese Cities",SCC,3
+MATH2003,Discrete Structures,FST,3
+FOOD2013,Food Chemistry,FST,3
+FOOD3073,Food Science Laboratory,FST,3
+ENG32038002,Intercultural Communication,FHSS,3
+STAT4103,Introduction to Deep Learning with Python,FST,3
+ECON2063,Introduction to Economics,FBM,3
+TRA3003,Introductory Interpreting,FHSS,3
+MKT3073,Marketing Communications,FBM,3
+GFHC1053,Middle Eastern Civilizations,FHSS,3
+TEM3033,Resort Management,SCC,3
+ACCT4043,Advanced Accounting I,FBM,3
+ECON3013,Applied Econometrics,FBM,3
+STAT3083,Applied Statistics,FST,3
+CCM3123,Concepts in Spatial Design,SCC,3
+GFHC1203,Creative and Media Industries,FBM,3
+DMM3013,Data-driven Media Management,FBM,3
+COMP4223,Deep Learning for Computer Vision,FST,3
+FIN3073,Financial Mathematics,FBM,3
+FOOD3063,Food Process Engineering,FST,3
+STAT1033,Foundations of Probability Theory,FST,3
+COMP4233,Functional Programming,FST,3
+CHEM2003,General Chemistry,FST,3
+GFHC1043,History of Southeast Asia,FHSS,3
+ENV3173,Hydrology and Water Engineering,FST,3
+AI4003,Optimization for Machine Learning,FST,3
+MHR3033,Performance Management and Rewards,FBM,3
+GFQR1053,Probability Theory with AI-aided Business Applications,FBM,3
+FINM3033,Risk Management in Finance,FST,3
+PSY2023,Social Psychology,FST,3
+PSY40338003,Special Topic in Psychology: Human Factors and Ergonomics,FST,3
+EPIN4033,Technology and Innovation Strategy,FBM,3
+EBIS4043,Big Data Analysis and Applications,FBM,3
+FOOD1053,Food Science in Daily Life,FST,3
+GTSU2003,Green Supply Chain Management,FBM,3
+JAP1003,Japanese II,SGE,3
+PRA2003,Principles of Public Relations,FHSS,3
+AI3043,Bayesian Networks,FST,3
+STAT3033,Bayesian Statistics,FST,3
+GTSU2043,Climate change and society: Current status and a look into the future,FST,3
+GTCU2043,Corporate Sustainability and Industry Innovation,FBM,3
+ACCT3003,Cost and Management Accounting I,FBM,3
+FIN4013,Financial Forecasting,FBM,3
+ECON3203,International Finance,FBM,3
+PSY2013,Research Methods in Psychology,FST,3
+OR3023,Simulation,FST,3
+EBIS3093,Developing Applications for Mobile and Social Media,FBM,3
+FIN2013,Financial Planning and Investment Analysis,FBM,3
+ECON3073,Games and Economic Decisions,FBM,3
+SOC1083,Gender and Sexuality,FHSS,3
+BUS4063,International Business,FBM,3
+MATH2033,Mathematical Statistics,FST,3
+ECON2003,Principles of Macroeconomics,FBM,3
+TEM4013,Sustainable Tourism,SCC,3
+MKT3043,Brand Management,FBM,3
+CCM4063,Commercial Space Planning and Facilities Management,SCC,3
+COMP4023,Computer and Network Security,FST,3
+DS1013,Python Programming for Beginners,FST,3
+BUS4013,Strategic Management,FBM,3
+Course,No.,OTHER,3
+Course (Session) Title,Exam Date,OTHER,3
+Chemistry Laboratory (1001),2026-05-26,OTHER,3
